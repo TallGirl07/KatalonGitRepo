@@ -4,8 +4,8 @@
    <name>New Test Suite1</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2017-12-01T17:08:02</lastRun>
-   <mailRecipient></mailRecipient>
+   <lastRun>2017-12-01T18:41:35</lastRun>
+   <mailRecipient>newjourney49@gmail.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
