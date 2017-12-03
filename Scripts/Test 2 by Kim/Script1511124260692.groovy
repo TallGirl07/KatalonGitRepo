@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://www.sisterlocks.com/')
+WebUI.navigateToUrl('http://www.google.com/')
 
 WebUI.closeBrowser()
 
